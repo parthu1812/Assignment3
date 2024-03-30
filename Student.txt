@@ -1,0 +1,2 @@
+101,Partha,Gade,23,Male,A,85
+102,vijay,krishna,26,male,C,76
